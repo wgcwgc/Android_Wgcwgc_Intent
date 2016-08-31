@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Intent</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    
+    
+    <string name="OpenBaidu">打开指定网页</string>
+    <string name="OpenCall01">打开拨号面板</string>
+    <string name="OpenCall02">打开拨号面板并拨号</string>
+    <string name="OpenMassage01">打开发短信的界面</string>
+    <string name="OpenMassage02">打开发短信的界面并发送</string>
+    <string name="OpenMusic">播放指定路径音乐</string>
+    <string name="Uninstall">卸载程序</string>
+    <string name="Install">安装程序</string>
+
+</resources>
